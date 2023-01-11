@@ -389,6 +389,32 @@ html, body {
     margin: 10px 0px;
 }
 
+.review-box {
+    cursor: pointer;
+    margin: 0px auto;
+    margin-top: 20px;
+    padding: 5px 0px;
+    width: 180px;
+    background-color: #CD1D2B;
+    border-radius: 10px;
+}
+
+.review-box-2 {
+    margin-top: 40px;
+}
+
+.review-text {
+    text-decoration: underline;
+    margin: 0px;
+    color: white;
+    font-size: 24px;
+}
+
+.review-stars {
+    margin: 0px;
+    font-size: 20px;
+}
+
 .call-btn-contact {
     margin: 10px 0px -5px 0px;
     text-decoration: none;
